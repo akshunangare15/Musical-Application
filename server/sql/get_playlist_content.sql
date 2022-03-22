@@ -1,1 +1,0 @@
-SELECT * FROM playlist_contents INNER JOIN songs ON song_id = songs.id INNER JOIN artist ON artist.artist_id = songs.artist_id WHERE playlist_id = ?;
