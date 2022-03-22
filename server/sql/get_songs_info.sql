@@ -1,1 +1,0 @@
-SELECT  id, artist_name, `image`, country, song_title, notes, cover_art FROM artist INNER JOIN songs ON songs.artist_id = artist.artist_id;
