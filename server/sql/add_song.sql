@@ -1,0 +1,1 @@
+INSERT INTO songs(artist_id, song_title, notes, cover_art) VALUES ((SELECT artist_id FROM artist WHERE artist.artist_name = ?), ?, ?, ?);
