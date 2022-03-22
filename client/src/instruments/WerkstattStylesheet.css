@@ -1,0 +1,66 @@
+#controls {
+  margin-left: 40px;
+  margin-bottom: 40px;
+  width: 900px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#glide {
+  margin-left: 40px;
+}
+
+.control-div {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.control-div .control-label {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+#vco {
+  width: 450px;
+  height: 150px;
+  background: blue;
+}
+
+#vcf {
+  width: 300px;
+  height: 150px;
+  background: red;
+}
+
+#vca {
+  width: 150px;
+  height: 150px;
+  background: green;
+}
+
+#vco-mod {
+  width: 450px;
+  height: 150px;
+  background: pink;
+}
+
+#vcf-mod {
+  width: 450px;
+  height: 150px;
+  background: purple;
+}
+
+#lfo {
+  width: 450px;
+  height: 150px;
+  background: orange;
+}
+
+#envelope {
+  width: 450px;
+  height: 150px;
+  background: sienna;
+}
