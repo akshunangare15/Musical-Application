@@ -1,1 +1,0 @@
-INSERT INTO playlist(playlist_name, creator, date_created) VALUES (?, ?, ?);
