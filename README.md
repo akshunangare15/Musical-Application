@@ -3,8 +3,6 @@
 
 ## Client
 
-The client contains the code which you will modify as part of the course. It constitutes the frontend (UI) portion of this web application.
-
 In the `client` directory, you can run:
 
 ### `npm start`
